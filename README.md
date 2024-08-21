@@ -27,20 +27,62 @@
 **Что нужно сделать:**
 
 1. Зарегистрируйте аккаунт на [GitHub](https://github.com/).
+
+   ![изображение](https://github.com/user-attachments/assets/cfc47d0a-ace5-4850-8c50-35a042db7a6f)
+
 1. Создайте  **новый отдельный публичный репозиторий**. Обязательно поставьте галочку в поле «Initialize this repository with a README».
-2. Склонируйте репозиторий, используя https протокол `git clone ...`.
-3. Перейдите в каталог с клоном репозитория.
+
+   ![изображение](https://github.com/user-attachments/assets/3e940efd-aeb2-46d3-871c-77d51ea62d5c)
+
+3. Склонируйте репозиторий, используя https протокол `git clone ...`.
+
+   ![изображение](https://github.com/user-attachments/assets/f239ce45-7c2d-4c79-8e18-dec064e9ebc1)
+
+5. Перейдите в каталог с клоном репозитория.
+
+   ![изображение](https://github.com/user-attachments/assets/e5fd48bb-795b-44e6-ada3-baa52eba1c3d)
+
 1. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
+
+   ![изображение](https://github.com/user-attachments/assets/0b0b9098-981c-4dee-84c0-2532bdfa1cee)
+
 1. Выполните команду `git status` и запомните результат.
+
+   ![изображение](https://github.com/user-attachments/assets/a00b4634-a2ad-4c8a-b39b-f65d87a61b4a)
+
 1. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+
+   ![изображение](https://github.com/user-attachments/assets/93854cbf-491f-4a7a-a436-50357d9edc84)
+
 1. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
+
+   ![изображение](https://github.com/user-attachments/assets/7e1d7625-4468-476c-8e7f-5f432b356623)
+
 1. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
+
+   ![изображение](https://github.com/user-attachments/assets/e0b438ca-9845-420a-852e-ca525096f57c)
+
 1. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
+
+   ![изображение](https://github.com/user-attachments/assets/755e47d1-8c8c-4977-a114-fd4a60b3ce9d)
+
 1. Ещё раз выполните команды `git diff` и `git diff --staged`.
+
+   ![изображение](https://github.com/user-attachments/assets/82cf3079-dc19-4432-84b5-5030061bb20b)
+
 1. Теперь можно сделать коммит `git commit -m 'First commit'`.
+
+   ![изображение](https://github.com/user-attachments/assets/f71080ce-6207-4aa8-8157-81e0ae9f2f54)
+
 1. Сделайте `git push origin master`.
 
+   ![изображение](https://github.com/user-attachments/assets/afb003ed-04cf-4722-bba1-66548a1f55d7)
+
+
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+   ![изображение](https://github.com/user-attachments/assets/87a42360-0e8d-4e3a-9e40-5cb1422b9030)
+
 
 ---
 
