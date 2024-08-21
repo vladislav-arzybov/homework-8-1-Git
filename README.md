@@ -91,11 +91,24 @@ https://github.com/vladislav-arzybov/8_1_git/commit/a0bf7302e28150d9201c879f7b3b
 **Что нужно сделать:**
 
 1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
+
+   ![изображение](https://github.com/user-attachments/assets/03c70708-0d75-4f10-aee1-8d38d68ece53)
+
 1. Добавьте файл .gitignore в следующий коммит `git add...`.
+
+   ![изображение](https://github.com/user-attachments/assets/eb72bef5-09a0-46e6-a005-ccd3612653e7)
+
 1. Напишите правила в этом файле, чтобы игнорировать любые файлы `.pyc`, а также все файлы в директории `cache`.
+
+   ![изображение](https://github.com/user-attachments/assets/ae201a2a-32e5-4a90-adb7-6e03ac490d07)
+
 1. Сделайте коммит и пуш.
 
+   ![изображение](https://github.com/user-attachments/assets/cd8a7efc-490c-42de-b407-7b13baf31a80)
+
+
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
 https://github.com/vladislav-arzybov/8_1_git/commit/4a4f571f7331c4a48ebc4c3162cff2e02f6c1544
 
 ---
