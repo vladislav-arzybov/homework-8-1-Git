@@ -96,6 +96,7 @@ https://github.com/vladislav-arzybov/8_1_git/commit/a0bf7302e28150d9201c879f7b3b
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+https://github.com/vladislav-arzybov/8_1_git/commit/4a4f571f7331c4a48ebc4c3162cff2e02f6c1544
 
 ---
 
