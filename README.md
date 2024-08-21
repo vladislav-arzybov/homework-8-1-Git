@@ -128,6 +128,8 @@ https://github.com/vladislav-arzybov/8_1_git/commit/4a4f571f7331c4a48ebc4c3162cf
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
+https://github.com/vladislav-arzybov/8_1_git/network
+
 Ваш граф комитов должен выглядеть аналогично скриншоту:   
 
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
