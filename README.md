@@ -81,7 +81,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-commit a0bf7302e28150d9201c879f7b3b520b0cba7083
+the commit a0bf7302e28150d9201c879f7b3b520b0cba7083 First commit
 
    ![изображение](https://github.com/user-attachments/assets/87a42360-0e8d-4e3a-9e40-5cb1422b9030)
 
