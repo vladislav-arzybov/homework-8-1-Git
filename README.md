@@ -174,12 +174,46 @@ https://github.com/vladislav-arzybov/8_1_git/network
 **Что нужно сделать:**
 
 1. Создайте ветку conflict и переключитесь на неё.
-2. Внесите изменения в файл test.sh. 
-3. Сделайте коммит и пуш.
-4. Переключитесь на основную ветку.
-5. Измените ту же самую строчку в файле test.sh.
-6. Сделайте коммит и пуш.
-7. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
+
+   ![изображение](https://github.com/user-attachments/assets/ea39cca7-eb25-45c4-a831-2aa3ed39eb1e)
+
+3. Внесите изменения в файл test.sh.
+
+   ![изображение](https://github.com/user-attachments/assets/81d29da2-4524-4a6e-8634-18883a29e3a3)
+
+5. Сделайте коммит и пуш.
+
+   ![изображение](https://github.com/user-attachments/assets/561ffdcc-43c7-4437-af3a-95d46e561ab2)
+
+   ![изображение](https://github.com/user-attachments/assets/1169148a-e159-4a30-bbd0-750af4c03f2a)
+
+
+7. Переключитесь на основную ветку.
+
+   ![изображение](https://github.com/user-attachments/assets/abfc8145-0f62-4397-9a0a-9edc9fe5b81c)
+
+9. Измените ту же самую строчку в файле test.sh.
+
+   ![изображение](https://github.com/user-attachments/assets/a253d8a4-5c40-436f-93cd-2844e6f517c7)
+
+11. Сделайте коммит и пуш.
+
+    ![изображение](https://github.com/user-attachments/assets/0bcf13d6-efe6-49ac-ac1f-d627eb71f892)
+
+    ![изображение](https://github.com/user-attachments/assets/bf5552d1-f840-4723-bb68-50af7e4af50f)
+
+
+13. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
+
+    ![изображение](https://github.com/user-attachments/assets/3c481ee5-4e71-49c8-b360-f10044ef7ede)
+
+    ![изображение](https://github.com/user-attachments/assets/d075ea17-2b48-4a90-8f07-8cba04c8c711)
+
+    ![изображение](https://github.com/user-attachments/assets/ec3d901b-b6f1-4ecf-b6d0-710d0c110733)
+
+    ![изображение](https://github.com/user-attachments/assets/3f894d80-40db-433f-97dc-0ce9ff84de5d)
+
+    ![изображение](https://github.com/user-attachments/assets/2404ee83-e18b-4a89-b259-cf6bdfc36fc7)
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
