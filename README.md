@@ -129,6 +129,9 @@ https://github.com/vladislav-arzybov/8_1_git/commit/4a4f571f7331c4a48ebc4c3162cf
 
    ![изображение](https://github.com/user-attachments/assets/0fe183c0-39b9-4a79-86b8-29cf7540f1de)
 
+   ![изображение](https://github.com/user-attachments/assets/e621ccd0-e197-4e3c-9b84-58b2be0aad7d)
+
+
 7. Переключитесь на основную ветку.
 
    ![изображение](https://github.com/user-attachments/assets/cd769d89-3cae-4538-92fe-daa6f5967a2f)
