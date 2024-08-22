@@ -155,6 +155,9 @@ https://github.com/vladislav-arzybov/8_1_git/network
 
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
 
+![изображение](https://github.com/user-attachments/assets/0f9e2d41-f5b6-45f4-955c-5b40683499a0)
+
+
 ---
 ## Дополнительные задания* (со звёздочкой)
 
@@ -176,3 +179,8 @@ https://github.com/vladislav-arzybov/8_1_git/network
 7. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+
+https://github.com/vladislav-arzybov/8_1_git/network
+
+![изображение](https://github.com/user-attachments/assets/99c26cde-4cf7-423f-a7e5-d26e1b2a93b7)
+
